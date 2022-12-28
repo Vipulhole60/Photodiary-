@@ -1,0 +1,345 @@
+h1,
+h2,
+h3,
+p,
+body,
+button,
+div,
+img,
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+}
+
+.container {
+    width: 980px;
+    margin: 0 auto;
+}
+
+.menu {
+    margin-top: 80px;
+    /* overflow: hidden; */
+}
+
+/* .menu div:first-child {
+    float: left;
+} */
+
+/* .menu div:last-child {
+    float: right;
+} */
+
+.menu li {
+    display: inline;
+}
+
+.menu a {
+    margin: 0 124px 0 0;
+    font-weight: 400;
+    color: #626262;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.menu li:last-child a {
+    margin: 0;
+}
+
+.photodiary>div:first-child {
+    width: 660PX;
+    /* float: left; */
+}
+
+.photodiary>div:last-child {
+    width: 280PX;
+    /* float: right; */
+}
+
+.photodiary {
+    margin: 98px 0 71px;
+    /* overflow: hidden; */
+}
+
+
+.sidebar-1 h2 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #b4ad9e;
+}
+
+.sidebar-1 h1 {
+    font-size: 30px;
+    font-weight: 400;
+    color: #626262;
+    /* margin-top: 25PX; */
+}
+
+.sidebar-1 P {
+    font-size: 14px;
+    font-weight: 400;
+    color: #626262;
+    /* margin-top: 30PX; */
+}
+
+.img {
+    margin-top: 50px;
+}
+
+.para p {
+    width: 613px;
+    margin-left: 22px;
+}
+
+.paragaph {
+    overflow: hidden;
+}
+
+.paragaph p {
+    width: 668px;
+}
+
+.header {
+    margin: 15px 0 15px;
+}
+
+.header h1 {
+    font-size: 24px;
+    font-weight: 400;
+    color: #626262;
+}
+
+.header p {
+    font-size: 12px;
+    font-weight: 400;
+    color: #626262;
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+.icons {
+    margin: 15px 0 70px 0;
+}
+
+.icons i {
+    color: #b4ac9e;
+    font-size: 24px;
+    margin-right: 12px;
+}
+
+.header-2 header {
+    font-size: 14px;
+    font-weight: 400;
+    color: #b4ad9e;
+    margin-bottom: 35px;
+}
+
+.header-2 h1 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #626262;
+    margin-bottom: 10px;
+}
+
+.header-2 h2 {
+    font-size: 12px;
+    font-weight: 400;
+    color: #b4ad9e;
+    margin-bottom: 25px;
+}
+
+.header-2 {
+    margin-bottom: 40px;
+}
+
+.para {
+    overflow: hidden;
+}
+
+.fa-so i {
+    margin-left: 8px;
+}
+
+.fa-so {
+    color: #b4ad9e;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 50px;
+    overflow: hidden;
+    float: right;
+}
+
+.fa-so a {
+    color:#b4ac9e;
+}
+
+.bg-gray {
+    background-color: #f5f5f5;
+    padding: 60px 0 86px;
+}
+
+.tours h2{
+    font-size: 14px;
+    color: #b4ad9e;
+    font-weight:400;
+    margin-bottom:50px;
+}
+
+.box  {
+    overflow: hidden;
+}
+
+.box div {
+    float: left;
+    width: 275px;
+    margin-right: 75px;
+    overflow: hidden;
+}
+
+.box h1{
+    font-size: 20px;
+    font-weight: 400;
+    color: #626262;
+    margin-top: 20px;
+}
+.box  div:last-child {
+    margin: 0;
+}
+
+.comments {
+    padding: 66px 0 86px;
+}
+
+.comments {
+    overflow: hidden;
+}
+
+
+.head h1 {
+    color:#b4ad9e;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.profile>div {
+    float: left;
+}
+
+
+.profile {
+    overflow: hidden;
+}
+
+.profile >:first-child h1 {
+    width: 73px;
+}
+
+.profile >:last-child {
+    width: 733px;
+    margin-left: 45px;
+    margin-bottom: 58px;
+}
+
+.profile >:last-child h2{
+font-size: 14px;
+font-weight: 400;
+color: #626262;
+margin-bottom: 11px;
+}
+
+.profile >:last-child p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #626262;
+    margin-bottom: 15px;
+}
+
+.profile >:last-child a{
+    font-size: 14px;
+    font-weight: 400;
+    color:#b4ad9e;
+    text-decoration: none;
+}
+
+.profile-1 >div {
+    float: left;
+}
+
+.profile-1 >:last-child{
+    margin-left: 34px;
+}
+
+.profile-1 >:first-child{
+   width: 70px;
+}
+
+.input input {
+    width: 830px;
+    border-radius: 10px;
+    border-color: #c8c8c8;
+    padding: 20px 0 27px 31px;
+}
+
+.input {
+    overflow: hidden;
+}
+
+.io-so {
+    float: right;
+    margin-top: 35px;
+}
+
+.io-so h{
+      margin-right:30px;
+      font-size: 14px;
+      font-weight: 400;
+      color:#b4ad9e;
+}
+
+.io-so a {
+    margin-left: 16px;
+    color: #b4ad9e;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.bg-Privacy {
+    background-color: #f5f5f5;
+    padding: 40px 0 45px;
+}
+
+.footer div:first-child {
+    float: left;
+}
+
+.footer div:last-child {
+    float: right;
+}
+
+.footer-icons a {
+    margin-left: 17px;
+    color:#616161;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.follow {
+    margin-right:19px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+}
+
+.terms > div :first-child{
+    margin-right: 12px;
+}
+
+.terms a {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    font-weight:400;
+}
